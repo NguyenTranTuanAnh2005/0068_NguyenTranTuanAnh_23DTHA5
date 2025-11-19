@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\BaiTap2\BaiTap2\bin\Debug\net10.0\BaiTap2.exe
+C:\Users\acer\source\repos\BaiTap2\BaiTap2\bin\Debug\net10.0\BaiTap2.deps.json
+C:\Users\acer\source\repos\BaiTap2\BaiTap2\bin\Debug\net10.0\BaiTap2.runtimeconfig.json
+C:\Users\acer\source\repos\BaiTap2\BaiTap2\bin\Debug\net10.0\BaiTap2.dll
+C:\Users\acer\source\repos\BaiTap2\BaiTap2\bin\Debug\net10.0\BaiTap2.pdb
+C:\Users\acer\source\repos\BaiTap2\BaiTap2\obj\Debug\net10.0\BaiTap2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\BaiTap2\BaiTap2\obj\Debug\net10.0\BaiTap2.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\BaiTap2\BaiTap2\obj\Debug\net10.0\BaiTap2.AssemblyInfo.cs
+C:\Users\acer\source\repos\BaiTap2\BaiTap2\obj\Debug\net10.0\BaiTap2.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BaiTap2\BaiTap2\obj\Debug\net10.0\BaiTap2.dll
+C:\Users\acer\source\repos\BaiTap2\BaiTap2\obj\Debug\net10.0\refint\BaiTap2.dll
+C:\Users\acer\source\repos\BaiTap2\BaiTap2\obj\Debug\net10.0\BaiTap2.pdb
+C:\Users\acer\source\repos\BaiTap2\BaiTap2\obj\Debug\net10.0\BaiTap2.genruntimeconfig.cache
+C:\Users\acer\source\repos\BaiTap2\BaiTap2\obj\Debug\net10.0\ref\BaiTap2.dll
