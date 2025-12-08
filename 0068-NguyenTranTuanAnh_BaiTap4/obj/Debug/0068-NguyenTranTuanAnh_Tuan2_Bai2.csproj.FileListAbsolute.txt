@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\2380600068_NguyenTranTuanAnh_Tuan2\0068-NguyenTranTuanAnh_Bai2\bin\Debug\0068-NguyenTranTuanAnh_Bai2.exe.config
+C:\Users\Administrator\source\repos\2380600068_NguyenTranTuanAnh_Tuan2\0068-NguyenTranTuanAnh_Bai2\bin\Debug\0068-NguyenTranTuanAnh_Bai2.exe
+C:\Users\Administrator\source\repos\2380600068_NguyenTranTuanAnh_Tuan2\0068-NguyenTranTuanAnh_Bai2\bin\Debug\0068-NguyenTranTuanAnh_Bai2.pdb
+C:\Users\Administrator\source\repos\2380600068_NguyenTranTuanAnh_Tuan2\0068-NguyenTranTuanAnh_Bai2\obj\Debug\0068-NguyenTranTuanAnh_Tuan2_Bai2.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\2380600068_NguyenTranTuanAnh_Tuan2\0068-NguyenTranTuanAnh_Bai2\obj\Debug\_0068_NguyenTranTuanAnh_Bai2.Form1.resources
+C:\Users\Administrator\source\repos\2380600068_NguyenTranTuanAnh_Tuan2\0068-NguyenTranTuanAnh_Bai2\obj\Debug\_0068_NguyenTranTuanAnh_Bai2.Properties.Resources.resources
+C:\Users\Administrator\source\repos\2380600068_NguyenTranTuanAnh_Tuan2\0068-NguyenTranTuanAnh_Bai2\obj\Debug\0068-NguyenTranTuanAnh_Tuan2_Bai2.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\2380600068_NguyenTranTuanAnh_Tuan2\0068-NguyenTranTuanAnh_Bai2\obj\Debug\0068-NguyenTranTuanAnh_Tuan2_Bai2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\2380600068_NguyenTranTuanAnh_Tuan2\0068-NguyenTranTuanAnh_Bai2\obj\Debug\0068-NguyenTranTuanAnh_Bai2.exe
+C:\Users\Administrator\source\repos\2380600068_NguyenTranTuanAnh_Tuan2\0068-NguyenTranTuanAnh_Bai2\obj\Debug\0068-NguyenTranTuanAnh_Bai2.pdb
