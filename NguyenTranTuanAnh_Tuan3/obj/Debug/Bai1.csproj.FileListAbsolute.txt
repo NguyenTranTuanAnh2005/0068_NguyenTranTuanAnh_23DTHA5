@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\NguyenTranTuanAnh_Tuan3\NguyenTranTuanAnh_Tuan3\bin\Debug\NguyenTranTuanAnh_Tuan3.exe.config
+C:\Users\Administrator\source\repos\NguyenTranTuanAnh_Tuan3\NguyenTranTuanAnh_Tuan3\bin\Debug\NguyenTranTuanAnh_Tuan3.exe
+C:\Users\Administrator\source\repos\NguyenTranTuanAnh_Tuan3\NguyenTranTuanAnh_Tuan3\bin\Debug\NguyenTranTuanAnh_Tuan3.pdb
+C:\Users\Administrator\source\repos\NguyenTranTuanAnh_Tuan3\NguyenTranTuanAnh_Tuan3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\source\repos\NguyenTranTuanAnh_Tuan3\NguyenTranTuanAnh_Tuan3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\source\repos\NguyenTranTuanAnh_Tuan3\NguyenTranTuanAnh_Tuan3\obj\Debug\Bai1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\NguyenTranTuanAnh_Tuan3\NguyenTranTuanAnh_Tuan3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\source\repos\NguyenTranTuanAnh_Tuan3\NguyenTranTuanAnh_Tuan3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\source\repos\NguyenTranTuanAnh_Tuan3\NguyenTranTuanAnh_Tuan3\obj\Debug\Bai1.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\NguyenTranTuanAnh_Tuan3\NguyenTranTuanAnh_Tuan3\obj\Debug\NguyenTranTuanAnh_Tuan3.Form1.resources
+C:\Users\Administrator\source\repos\NguyenTranTuanAnh_Tuan3\NguyenTranTuanAnh_Tuan3\obj\Debug\NguyenTranTuanAnh_Tuan3.Properties.Resources.resources
+C:\Users\Administrator\source\repos\NguyenTranTuanAnh_Tuan3\NguyenTranTuanAnh_Tuan3\obj\Debug\Bai1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\NguyenTranTuanAnh_Tuan3\NguyenTranTuanAnh_Tuan3\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\NguyenTranTuanAnh_Tuan3\NguyenTranTuanAnh_Tuan3\obj\Debug\NguyenTranTuanAnh_Tuan3.exe
+C:\Users\Administrator\source\repos\NguyenTranTuanAnh_Tuan3\NguyenTranTuanAnh_Tuan3\obj\Debug\NguyenTranTuanAnh_Tuan3.pdb
